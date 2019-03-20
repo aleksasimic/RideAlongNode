@@ -1,0 +1,27 @@
+{
+  "mapa": [],
+  "korisnici": [],
+  "markeri": [],
+  "pocetna_ikonica": [
+    {
+      "adresa": "http://maps.google.com/mapfiles/kml/pal4/icon23.png",
+      "id": 1
+    }
+  ],
+  "krajnja_ikonica": [
+    {
+      "adresa": "http://maps.google.com/mapfiles/kml/pal4/icon21.png",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
